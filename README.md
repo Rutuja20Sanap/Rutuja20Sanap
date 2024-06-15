@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning  **MERN Stack.**
 
-- 👨‍💻 All of my projects are available at [**https://github.com/Rutuja20Sanap**](https://github.com/Rutuja20Sanap)
+- 👩🏻‍💻 All of my projects are available at [**https://github.com/Rutuja20Sanap**](https://github.com/Rutuja20Sanap)
 
 - 📫 How to reach me **dnyaneshwarsanap293@gmail.com**
 
