@@ -1,7 +1,6 @@
 # <i>HEY EVERYONE <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I AM RUTUJA SANAP </i>👩🏻‍💻<h3><i>I am passionate about doing Web Development and also another programming language.</i></h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja20sanap&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja20sanap" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rutuja20sanap" alt="rutuja20sanap" /></a> </p>
 
 - 🔭 I’m currently working on **icp-8.0-html-css-group-project.**
 
