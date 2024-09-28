@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutuja20sanap&label=Profile%20views&color=0e75b6&style=flat" alt="rutuja20sanap" /> </p>
 
 
-- 🔭 I’m currently working on **icp-8.0-html-css-group-project.**
+- 🔭 I’m currently working on **icp-8.0-html-css-js-react-group-project.**
 
 - 🌱 I’m currently learning  **MERN Stack.**
 
