@@ -9,7 +9,7 @@
 
 - 👩🏻‍💻 All of my projects are available at [**https://github.com/Rutuja20Sanap**](https://github.com/Rutuja20Sanap)
 
-- 📫 How to reach me **dnyaneshwarsanap293@gmail.com**
+- 📫 How to reach me **rutujasanap231@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
